@@ -2,16 +2,7 @@
 
 Zeiterfassung leicht gemacht.
 
-### Prerequisites
-
-Stückliste
-Schaltplan
-
-```
-Give examples
-```
-
-### Installing
+### Installation
 
 Stückliste
 - 1x Arduino Nano
@@ -24,15 +15,12 @@ Stückliste
 - 2x LEDs
 - Jumper Wire & Bread Board
 
-Schaltplan
-
-## Running the tests
-
-Testfall mit Manni Mauke und Gerd Knüppel.
+Steckplan
+![alt text](https://github.com/SoecJan/Praktikum-Wirtschaftsinformatik-2019/blob/master/doc/fajker-steckplan.png)
 
 ## Video
 
-Youtube Link
+[![Fajker - Produktvideo](https://img.youtube.com/vi/fUpLvI6CNTE/0.jpg)](https://www.youtube.com/watch?v=fUpLvI6CNTE "Fajker - Produktvideo")
 
 ## Authors
 
@@ -40,10 +28,3 @@ Youtube Link
 * **Jan-Hendrik Söchtig** 
 * **Fabian Frohmann** 
 * **Rafael Marcel Luna Gonzales** 
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-
