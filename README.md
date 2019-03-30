@@ -5,7 +5,7 @@ Zeiterfassung leicht gemacht.
 ### Prerequisites
 
 Stückliste
-Schaltungsplan
+Schaltplan
 
 ```
 Give examples
@@ -13,10 +13,18 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Stückliste
+- 1x Arduino Nano
+- 3x 220 Ohm Widerstand
+- 1x Potentiometer
+- 1x 16x2 Display
+- 1x Analog Stick
+- 1x RFID-RC522
+- 1x Piezo-Buzzer
+- 2x LEDs
+- Jumper Wire & Bread Board
 
-Say what the step will be
-End with an example of getting some data out of the system or using it for a little demo
+Schaltplan
 
 ## Running the tests
 
@@ -26,16 +34,12 @@ Testfall mit Manni Mauke und Gerd Knüppel.
 
 Youtube Link
 
-## Contributing
-
-Sollen Pullrequests möglich sein?
-
 ## Authors
 
-* **Kevin Oppermann** - *Initial work*
-* **Jan-Hendrik Söchtig** - *Initial work*
-* **Fabian Frohmann** - *Initial work*
-* **Rafael Marcel Luna Gonzales** - *Initial work*
+* **Kevin Oppermann**
+* **Jan-Hendrik Söchtig** 
+* **Fabian Frohmann** 
+* **Rafael Marcel Luna Gonzales** 
 
 
 ## Acknowledgments
